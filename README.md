@@ -27,12 +27,10 @@ Conversion notes:
 # **DIvisive ANAlysis (DIANA)**
 
 
-### 
-**Course Project Assignment for Machine Learning, CloudHPC masters, ENSIAS**
+### **Course Project Assignment for Machine Learning, CloudHPC masters, ENSIAS**
 
 
-## 
-**Table of Contents**
+## **Table of Contents**
 
 
 
@@ -42,8 +40,7 @@ Conversion notes:
 * [Instruction](https://github.com/Saikat2019/DIANA-Clustering-Algorithm#Instruction)
 * [Members](https://github.com/Saikat2019/DIANA-Clustering-Algorithm#Members)
 
-## 
-**Introduction**
+## **Introduction**
 
 
 Hierarchical clustering is a method of cluster analysis which seeks to build a hierarchy of clusters. Strategies for hierarchical clustering generally fall into two types:
@@ -53,8 +50,7 @@ Divisive: This is a "top down" approach: all observations start in one cluster, 
 In general, the merges and splits are determined in a greedy manner. The results of hierarchical clustering are usually presented in a dendrogram.
 
 
-## 
-**Data**
+## **Data (for testing puposes)**
 
 
 
@@ -69,8 +65,7 @@ Used Programming language
 _<span style="text-decoration:underline;">python</span>_
 
 
-## 
-**Instruction**
+## **Instruction**
 
 To run the program just run the DIvisiveANAlysis.py script
 
@@ -83,8 +78,7 @@ To run the program just run the DIvisiveANAlysis.py script
 you will get the output of the cluster number corresponding to each sample as an array
 
 
-## 
-**Members**
+## **Members**
 
 EL KHOUKHI MOHAMED
 
