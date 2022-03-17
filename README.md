@@ -50,7 +50,7 @@ Divisive: This is a "top down" approach: all observations start in one cluster, 
 In general, the merges and splits are determined in a greedy manner. The results of hierarchical clustering are usually presented in a dendrogram.
 
 
-## **Data (for testing puposes)**
+## **Data (for testing purposes)**
 
 
 
