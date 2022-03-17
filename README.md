@@ -34,11 +34,11 @@ Conversion notes:
 
 
 
-* [Introduction](https://github.com/Saikat2019/DIANA-Clustering-Algorithm#Introduction)
-* [Data](https://github.com/Saikat2019/DIANA-Clustering-Algorithm#Data)
-* [Tools](https://github.com/Saikat2019/DIANA-Clustering-Algorithm#Tools)
-* [Instruction](https://github.com/Saikat2019/DIANA-Clustering-Algorithm#Instruction)
-* [Members](https://github.com/Saikat2019/DIANA-Clustering-Algorithm#Members)
+* [Introduction]
+* [Data]
+* [Tools]
+* [Instruction]
+* [Members]
 
 ## **Introduction**
 
