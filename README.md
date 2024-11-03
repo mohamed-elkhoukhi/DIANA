@@ -24,7 +24,7 @@ Conversion notes:
 
 
 
-# **DIvisive ANAlysis (DIANA)**
+# **Divisive Analysis (DIANA)**
 
 
 ### **Course Project Assignment for Machine Learning, CloudHPC masters, ENSIAS**
